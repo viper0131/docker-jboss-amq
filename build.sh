@@ -1,7 +1,7 @@
 #!/bin/sh
 
-IMAGE=nlmacamp/amq
-REPO=dockerhub.novamedia.com
+IMAGE=nlmacamp/jboss-amq
+REPO=registry.hub.docker.com
 VERSION=6.3.0
 
 #
